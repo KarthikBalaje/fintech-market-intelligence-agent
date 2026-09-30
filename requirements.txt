@@ -1,0 +1,14 @@
+langchain
+langchain-ollama
+langgraph
+crewai
+pydantic
+pydantic-ai
+mem0ai
+python-dotenv
+yfinance
+pandas
+requests
+transformers
+torch
+pytest

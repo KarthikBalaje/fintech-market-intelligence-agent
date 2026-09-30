@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# SQLite / local memory
+*.db
+*.sqlite
+*.sqlite3
+
+# Local model/cache files
+.cache/
+models/
+
+# Runtime logs
+*.log
+
+# Evidence generated locally
+# Keep evidence directory structure but ignore temporary files
+evidence/**/*.tmp
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
