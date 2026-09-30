@@ -3,9 +3,6 @@
 A guarded multi-agent FinTech market-intelligence system built using **LangGraph, Pydantic, PydanticAI, CrewAI, Ollama/Qwen3, yfinance, and MEM0**.
 
 The system retrieves market data and financial news for a user-supplied stock ticker, analyzes the collected evidence, and uses a Reviewer agent to determine whether sufficient evidence exists.
-
-> **Important:** This system is designed for human decision support. It does not execute trades or make autonomous investment decisions.
-
 ---
 
 ## 1. Case Study Objective
